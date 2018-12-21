@@ -1,0 +1,11 @@
+﻿{
+	"status": true,
+	"message": "",
+	"data": {
+		"versionCode": 2,
+		"version": "0.0.2",
+		"desc": "测试升级",
+		"type": 1,
+		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speed_0.0.2_1221181652.apk"
+	}
+}
