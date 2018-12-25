@@ -4,9 +4,8 @@
 	"data": {
 		"versionCode": 11,
 		"version": "0.1.1",
-		"desc": "1.优化服务器连接流程<br>
-                         2.修复部分bug",
+		"desc": "1.优化服务器连接流程<br>2.修复部分bug",
 		"type": 2,
-		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speed_0.0.2_1221181652.apk"
+		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speed_0.1.1.apk"
 	}
 }
