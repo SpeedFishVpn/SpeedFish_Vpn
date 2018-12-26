@@ -5,7 +5,7 @@
 		"versionCode": 12,
 		"version": "0.1.2",
 		"desc": "1.优化服务器连接流程\n2.修复部分bug",
-		"type": 2,
+		"type": 1,
 		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.2.apk"
 	}
 }
