@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 16,
-		"version": "0.1.6",
+		"versionCode": 17,
+		"version": "0.1.7",
 		"desc": "1.优化服务器连接流程\n2.修复部分bug",
 		"type": 1,
-		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.6.apk"
+		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.7.apk"
 	}
 }
