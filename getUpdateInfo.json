@@ -2,8 +2,8 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 17,
-		"version": "0.1.7",
+		"versionCode": 18,
+		"version": "0.1.8",
 		"desc": "1. Optimize network connectivity.\n2. Multi-national translation.\n3. Optimize the connection prompt.
 
 		"type": 1,
