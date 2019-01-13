@@ -1,0 +1,11 @@
+﻿{
+	"status": true,
+	"message": "",
+	"data": {
+		"versionCode": 8,
+		"version": "0.1.8",
+		"desc": "1. Optimize network connectivity.\n2. Multi-national translation.\n3. Optimize the connection prompt.",
+		"type": 1,
+		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.8.apk"
+	}
+}
