@@ -4,8 +4,9 @@
 	"data": {
 		"versionCode": 17,
 		"version": "0.1.7",
-		"desc": "1.优化服务器连接流程\n2.修复部分bug",
+		"desc": "1. Optimize network connectivity.\n2. Multi-national translation.\n3. Optimize the connection prompt.
+
 		"type": 1,
-		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.7.apk"
+		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.8.apk"
 	}
 }
