@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 18,
-		"version": "0.1.8",
-		"desc": "1. Optimize network connectivity.\n2. Multi-national translation.\n3. Optimize the connection prompt.",
+		"versionCode": 19,
+		"version": "0.1.9",
+		"desc": "1. Delete traffic restrictions.",
 		"type": 1,
-		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.8.apk"
+		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.9.apk"
 	}
 }
