@@ -2,7 +2,7 @@
   "status": true,
   "message": "",
   "data": {
-    "isLimitedTraffic": true,
+    "isLimitedTraffic": false,
     "info": [
       {
         "title": "关于0.1.9版本更新说明",
