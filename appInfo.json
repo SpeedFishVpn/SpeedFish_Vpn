@@ -11,6 +11,14 @@
       {
         "title": "About the 0.19 version update",
         "content": "    After considering it for a long time, it was decided to remove the daily limit traffic. The previous consideration was to create a relatively good network environment. Removing the traffic restriction may cause the server to be overloaded and shut down in the future. However, not deleting the traffic restriction violated the original intention of the software. I originally built a few VPNs because of the need of the work. Later, I found that the traffic was often excessive, so I decided to share it with you. This will have today's speedfish.\n    Since its release, it is already the 19th version. From the pure sharing before, to the contact with googleplay mall, there is a strong competition, I want to fight for the first, I want to make my own software, I want to add more software. More servers, I want to give you a better experience. However, contrary to expectations, the road to sharing is far away and difficult. 0.1.9 will be the last update of this UI, the next month to see the effect, if it can be maintained, I will continue to stick to it. If it can't be maintained, I will delete some servers, leave a server for the friends I need, and increase the traffic limit.\n    Finally, thank you for your support, thank you for helping me to click on the ads during this time.\n"
+      },
+      {
+        "title": "感谢点击广告的朋友！",
+        "content": "    去掉流量限制这两天，广告点击明显比之前多了，在此再次表示感谢。有googleplay的朋友，也麻烦再googleplay留下意见，或者鼓励！谢谢了"
+      },
+      {
+        "title": "Thanks for clicking ads！",
+        "content": "    After removing the traffic limit for two days, the ad clicks were significantly more than before, and I would like to thank you again. Have googleplay friends, but also trouble to googleplay to leave comments, or encourage! Thank you！"
       }
     ]
   }
