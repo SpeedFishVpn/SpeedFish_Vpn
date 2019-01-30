@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"versionCode": 19,
-		"version": "0.1.9",
-		"desc": "1. Delete traffic restrictions.",
+		"versionCode": 20,
+		"version": "0.2.0",
+		"desc": "1. 来不及解释了！更新就对了！2333.",
 		"type": 1,
-		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.1.9.apk"
+		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.2.0.apk"
 	}
 }
