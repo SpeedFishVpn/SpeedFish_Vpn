@@ -3,6 +3,7 @@
   "message": "",
   "data": {
     "isPreLoadAd": false,
+    "closeRewardAd": true,
     "isLimitedTraffic": false,
     "info": [
       {
