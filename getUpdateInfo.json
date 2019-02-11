@@ -5,7 +5,7 @@
 		"versionCode": 21,
 		"version": "0.2.1",
 		"desc": "1. 修复版本,去掉广告!\n1.Fix Version,remove AD! ",
-		"type": 1,
+		"type": 2,
 		"source":"https://raw.githubusercontent.com/SpeedFishVpn/SpeedFish_Vpn/master/speedfish_0.2.1.apk"
 	}
 }
