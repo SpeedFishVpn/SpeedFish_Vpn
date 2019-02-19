@@ -2,7 +2,7 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 2,
+		"serverVersion": 1,
 		"list": [{
 			"host": "139.180.205.128",
 			"port": 9071,
@@ -23,14 +23,6 @@
 			"host": "149.248.2.108",
 			"port": 9021,
 			"countryType": 1
-		}, {
-			"host": "45.77.62.69",
-			"port": 9314,
-			"countryType": 4
-		}, {
-			"host": "45.32.176.1",
-			"port": 9299,
-			"countryType": 3
 		}
 			]
 	}
