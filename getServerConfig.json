@@ -23,6 +23,15 @@
 			"host": "149.248.2.108",
 			"port": 9021,
 			"countryType": 1
-		}]
+		}, {
+			"host": "45.77.62.69",
+			"port": 9314,
+			"countryType": 4
+		}, {
+			"host": "45.32.176.1",
+			"port": 9299,
+			"countryType": 3
+		}
+			]
 	}
 }
