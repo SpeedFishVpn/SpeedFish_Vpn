@@ -2,7 +2,7 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 2,
+		"serverVersion": 3,
 		"list": [{
 			"host": "108.61.183.161",
 			"port": 9041,
