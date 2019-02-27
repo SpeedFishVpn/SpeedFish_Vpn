@@ -2,14 +2,14 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 4,
+		"serverVersion": 5,
 		"list": [{
 			"host": "108.61.183.161",
 			"port": 9041,
 			"countryType": 3
 		}, {
-			"host": "207.148.70.162",
-			"port": 9242,
+			"host": "139.180.129.36",
+			"port": 9234,
 			"countryType": 4
 		}, {
 			"host": "149.28.176.159",
