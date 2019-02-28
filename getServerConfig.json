@@ -2,7 +2,7 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 5,
+		"serverVersion": 6,
 		"list": [{
 			"host": "108.61.183.161",
 			"port": 9041,
@@ -12,12 +12,12 @@
 			"port": 9234,
 			"countryType": 4
 		}, {
-			"host": "149.28.176.159",
-			"port": 9638,
+			"host": "149.28.161.140",
+			"port": 9112,
 			"countryType": 5
 		}, {
-			"host": "149.248.57.227",
-			"port": 9705,
+			"host": "149.248.53.27",
+			"port": 9610,
 			"countryType": 2
 		}, {
 			"host": "45.32.69.13",
