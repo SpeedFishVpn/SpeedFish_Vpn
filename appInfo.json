@@ -7,16 +7,12 @@
     "isLimitedTraffic": false,
     "info": [
       {
-        "title": "账号被封！广告加载不了！",
-        "content": "    能看到这公告的朋友，都是SpeedFish最珍惜的好友！是你们给了我希望！不过很不幸，我刚刚收到了广告商的邮件，说我的账户被封了，要30天后才能解封，然后看我后面表现，看会不会永久被封。好的！回想这段时间，我确实是做一些违反广告商的规定（自己点击广告）！现在每天1美金左右的收入，开始让我看到希望，可能大多数也是我自己的点击，呵呵！所以收到这封的邮件我也并不是很惊讶。\n   今天发这份公告主要是想告诉大家，我已经开启了强制升级0.20版本，0.20以下的版本会在下次启动时提示更新。这样我可以把一些情况告知大家，方便大家知道SpeedFish的一些动态。第二点也想告诉大家，我会在接下来这段时间把全部广告全部去掉了，等30天后看情况。可能会坚持下去，这段时间收到你们留言和鼓励，还有一些热心的用户帮我推广，这也是我之前没敢想到的。\n 都大年29收到这样的消息，也只能呵呵了,最后感谢大家这段时间的支持！谢谢大家！祝大家新年快乐！"
+        "title": "广告很快就会恢复！",
+        "content": "    广告很快就会恢复，上个月的3号，封了30天，如果后面恢复广告，影响到体验，也希望指出。希望真能靠广告收益来维持，谢谢大家！"
       },
       {
-        "title": "Account is blocked",
-        "content": "    Friends who can see this announcement are the most treasured friends of SpeedFish! You gave me hope! However, unfortunately, I just received an email from the advertiser saying that my account was blocked. It will take 30 days to unblock it, and then look at my performance to see if it will be permanently blocked. Ok! Recalling this time, I did do some violations of the advertiser's rules (click on the ad myself)! Now, about 1 dollar per day, I start to see hope, and most of them are my own clicks, huh, huh! So I am not surprised to receive this email.\n    The announcement today is mainly to tell everyone that I have already started the mandatory upgrade version 0.20. The version below 0.20 will prompt for the update at the next startup. This way I can tell you some things, so that everyone can know some of the dynamics of SpeedFish. The second point is also to tell everyone, I will remove all the ads in the next period, and wait for 30 days to see the situation. May stick to it, I will receive your message and encouragement during this time, and some enthusiastic users will help me promote it, which I did not dare to think of before.\n    Finally, thank you for your support！"
-      },
-      {
-        "title": "全局模式和局部模式说明！",
-        "content": "    关于全局模式和局部模式说明，这两天收到邮件还有回复说介绍一下这两者的区别。全局模式：是全部流量都走服务器，这样访问国内一些网站会比较卡，比较慢，因为要经过服务器来访问国内网络，这样绕了一圈，速度就慢了。局部模式：智能分配，国内网站走本地连接，国外网站走服务器，这样会比较快，缺点是有些比较偏的网站访问不了。建议平时使用用局部模式，如有个别网站访问不了了，在开启全局。"
+        "title": "小版本更新",
+        "content": "   应用已经下架Google Play，为了后面新代号“蓝鲸”的发布，这两天会更新一个小版本，小版本加入了一个高级服务器，应该可以撑起一大部分人的需求，更多的服务器会在蓝鲸上面加入，由于工作还有各方各面的原因，蓝鲸应该没那么快能做出来，到时候蓝鲸会替代现在的速鱼，同样也是免费。广告账户应该会在这两三天解封，届时速鱼又会有广告了，分享不易，希望理解。如果高级服务器体验还是差的话，也希望能留言，我想看看这高级服务器的负荷能力。\n     最后谢谢那些继续保留速鱼的朋友，虽然体验不好，你们都肯保留，后面蓝鲸一定会做到让大家都不失望。至于后面恢复的广告，望理解！"
       },
       {
       "title": "应用已经下架",
