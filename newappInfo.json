@@ -3,7 +3,7 @@
  "message": "",
  "data": {
       "isPreLoadAd": false,
-      "closeRewardAd":true,
+      "closeRewardAd":false,
       "isLimitedTraffic": false,
 	  "cInfo":"中文蓝鲸提示",
 	  "cInfoTip":"中文蓝鲸点击提示",
