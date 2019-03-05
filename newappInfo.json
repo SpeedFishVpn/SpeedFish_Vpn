@@ -2,7 +2,7 @@
  "status": true,
  "message": "",
  "data": {
-      "isPreLoadAd": true,
+      "isPreLoadAd": false,
       "closeRewardAd":false,
       "isLimitedTraffic": false,
 	  "cInfo":"全新代号《蓝鲸》即将发布",
