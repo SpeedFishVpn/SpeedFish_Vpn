@@ -2,8 +2,29 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 9,
+		"serverVersion": 10,
 		"list": [
+			{
+			"host": "202.182.119.182",
+			"port": 9397,
+			"countryType": 3
+		}, {
+			"host": "139.180.221.206",
+			"port": 9959,
+			"countryType": 4
+		}, {
+			"host": "207.148.86.174",
+			"port": 9596,
+			"countryType": 5
+		}, {
+			"host": "155.138.142.200",
+			"port": 9900,
+			"countryType": 2
+		}, {
+			"host": "45.63.50.245",
+			"port": 9295,
+			"countryType": 1
+		}
 			]
 	}
 }
