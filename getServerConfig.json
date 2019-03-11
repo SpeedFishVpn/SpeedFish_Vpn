@@ -2,24 +2,8 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 8,
-		"list": [{
-			"host": "108.61.183.161",
-			"port": 9355,
-			"countryType": 3
-		}, {
-			"host": "139.180.129.36",
-			"port": 9234,
-			"countryType": 4
-		}, {
-			"host": "149.28.161.140",
-			"port": 9112,
-			"countryType": 5
-		}, {
-			"host": "149.248.53.27",
-			"port": 9610,
-			"countryType": 2
-		}
+		"serverVersion": 9,
+		"list": [
 			]
 	}
 }
