@@ -2,27 +2,27 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 13,
+		"serverVersion": 14,
 		"list": [
 			{
-			"host": "202.182.119.182",
-			"port": 9397,
+			"host": "108.61.183.116",
+			"port": 9925,
 			"countryType": 3
 		}, {
 			"host": "139.180.221.206",
 			"port": 9959,
 			"countryType": 4
 		}, {
-			"host": "45.77.237.19",
-			"port": 9809,
+			"host": "104.156.233.19",
+			"port": 9168,
 			"countryType": 5
 		}, {
 			"host": "149.248.57.246",
 			"port": 9595,
 			"countryType": 2
 		}, {
-			"host": "45.63.50.245",
-			"port": 9295,
+			"host": "207.246.107.205",
+			"port": 9661,
 			"countryType": 1
 		}
 			]
