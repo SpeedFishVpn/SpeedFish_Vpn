@@ -5,11 +5,11 @@
       "isPreLoadAd": false,
       "closeRewardAd":true,
       "isLimitedTraffic": false,
-	  "cInfo":"“蓝鲸”公测已经上线",
-	  "cInfoTip":"搜索“BlueWhale Studio”",
-	  "eInfo":"“BlueWhale” public beta is online",
-	  "eInfoTip":"search for“BlueWhale Studio”",
-	  "playStoreUrl":"",
+	  "cInfo":"点我下载“蓝鲸vpn”ad",
+	  "cInfoTip":"全新升级版，全新体验",
+	  "eInfo":"“Click download “BlueWhale vpn”ad",
+	  "eInfoTip":"New upgrade, new experience",
+	  "playStoreUrl":"market://details?id=com.bluewhale.vpn.shadowsocks",
       "info": [
         {
           "title": "速鱼下架了",
