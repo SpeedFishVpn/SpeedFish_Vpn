@@ -8,22 +8,6 @@
 			"host": "167.179.102.44",
 			"port": 9204,
 			"countryType": 3
-		}, {
-			"host": "45.76.159.52",
-			"port": 9496,
-			"countryType": 4
-		}, {
-			"host": "149.28.166.159",
-			"port": 9570,
-			"countryType": 5
-		}, {
-			"host": "149.248.60.84",
-			"port": 9802,
-			"countryType": 2
-		}, {
-			"host": "45.63.53.70",
-			"port": 9603,
-			"countryType": 1
 		}
 			]
 	}
