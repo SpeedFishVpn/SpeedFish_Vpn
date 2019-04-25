@@ -2,7 +2,7 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 16,
+		"serverVersion": 17,
 		"list": [
 			{
 			"host": "167.179.102.44",
