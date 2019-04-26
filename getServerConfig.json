@@ -2,10 +2,10 @@
 	"status": true,
 	"message": "",
 	"data": {
-		"serverVersion": 17,
+		"serverVersion": 18,
 		"list": [
 			{
-			"host": "167.179.102.44",
+			"host": "167.179.102.144",
 			"port": 9204,
 			"countryType": 3
 		}
